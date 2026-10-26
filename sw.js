@@ -1,4 +1,4 @@
-const VERSION = 'crack-and-cup-pos-v1';
+const VERSION = 'crack-and-cup-pos-v2';
 const SHELL = [
   './',
   'app.min.js',
